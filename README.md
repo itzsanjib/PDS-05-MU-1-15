@@ -1,2 +1,2 @@
-# PDS-05-MU-1-15
+# PDS-05-MU-15
 Loan_prediction Using Logistic_Regression
